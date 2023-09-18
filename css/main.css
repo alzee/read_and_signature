@@ -1,0 +1,29 @@
+h1{
+  text-align: center;
+}
+#capture {
+  padding: 1rem;
+}
+canvas {
+  border: 1px dashed black;
+  margin: auto;
+}
+#btn {
+  padding: 1rem;
+}
+#btn button{
+  width: 45%;
+  padding: .5rem;
+}
+.clear {
+  color: #fff;
+  background: #dc3545;
+  border: none;
+  border-radius: .5rem;
+}
+.ok{
+  color: #fff;
+  background: #198754;
+  border: none;
+  border-radius: .5rem;
+}
